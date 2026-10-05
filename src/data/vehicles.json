@@ -1,0 +1,586 @@
+[
+  {
+    "id": "v1",
+    "type": "Hatchback",
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "VXI",
+    "year": 2020,
+    "registrationYear": 2020,
+    "price": 485000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 52000,
+    "owners": 2,
+    "color": "White",
+    "location": "Hyderabad, Telangana",
+    "condition": "Good",
+    "images": [
+      "https://imgd.aeplcdn.com/640X480/image/used/41tm44lbcvho.jpg?fit=true&qp=80"
+    ],
+    "description": "Well maintained Maruti Suzuki Swift with low ownership and regular service history.",
+    "features": [
+      "Air Conditioning",
+      "Power Windows",
+      "ABS",
+      "Dual Airbags",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Hyderabad, Telangana"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v2",
+    "type": "SUV",
+    "brand": "Hyundai",
+    "model": "Creta",
+    "variant": "SX",
+    "year": 2019,
+    "registrationYear": 2019,
+    "price": 1125000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "kilometers": 68000,
+    "owners": 2,
+    "color": "Black",
+    "location": "Bengaluru, Karnataka",
+    "condition": "Good",
+    "images": [
+      "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/creta/exterior/creta-exterior-1.jpg"
+    ],
+    "description": "Comfortable family SUV with automatic transmission and premium features.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Sunroof"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Bengaluru, Karnataka"
+    },
+    "imageNote": "Real Hyundai Creta photograph; source URL from web image search."
+  },
+  {
+    "id": "v3",
+    "type": "Sedan",
+    "brand": "Honda",
+    "model": "City",
+    "variant": "VX",
+    "year": 2018,
+    "registrationYear": 2018,
+    "price": 645000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 76000,
+    "owners": 2,
+    "color": "Silver",
+    "location": "Warangal, Telangana",
+    "condition": "Fair",
+    "images": [
+      "https://editorial.pxcrush.net/carsales/general/editorial/Honda-City-001.jpg?height=682&width=1024"
+    ],
+    "description": "Reliable sedan with comfortable interiors and good service history.",
+    "features": [
+      "Air Conditioning",
+      "Power Windows",
+      "ABS",
+      "Rear Camera",
+      "Touchscreen Infotainment"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Warangal, Telangana"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v4",
+    "type": "Car",
+    "brand": "Tata",
+    "model": "Nexon",
+    "variant": "XZ+",
+    "year": 2021,
+    "registrationYear": 2021,
+    "price": 795000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 47000,
+    "owners": 2,
+    "color": "Blue",
+    "location": "Vijayawada, Andhra Pradesh",
+    "condition": "Good",
+    "images": [
+      "https://mda.spinny.com/sp-file-system/public/2025-07-31/569f271171a149aeb9e01476f22e0fa6/raw/file.JPG"
+    ],
+    "description": "Low mileage Tata Nexon in excellent condition.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Vijayawada, Andhra Pradesh"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v5",
+    "type": "Bike",
+    "brand": "Royal Enfield",
+    "model": "Classic 350",
+    "variant": "Signals",
+    "year": 2020,
+    "registrationYear": 2020,
+    "price": 132000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 27000,
+    "owners": 2,
+    "color": "Green",
+    "location": "Warangal, Telangana",
+    "condition": "Good",
+    "images": [
+      "https://www.thebikeandbrew.com.au/images/bikeandbrew/64647.jpg"
+    ],
+    "description": "Lightly used Classic 350 with clean condition.",
+    "features": [
+      "ABS",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Warangal, Telangana"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v6",
+    "type": "SUV",
+    "brand": "Kia",
+    "model": "Seltos",
+    "variant": "HTX",
+    "year": 2020,
+    "registrationYear": 2020,
+    "price": 1085000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "kilometers": 59000,
+    "owners": 2,
+    "color": "White",
+    "location": "Chennai, Tamil Nadu",
+    "condition": "Good",
+    "images": [
+      "https://mda.spinny.com/sp-file-system/public/inspection/2025-09-09/10783649/b25dde1b88fa4b6096bf5e487db56fb4/raw/10783649_car_photo_178_24302883.jpg"
+    ],
+    "description": "Premium SUV with automatic transmission and modern infotainment.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Touchscreen Infotainment"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Chennai, Tamil Nadu"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v7",
+    "type": "Car",
+    "brand": "Toyota",
+    "model": "Glanza",
+    "variant": "G",
+    "year": 2022,
+    "registrationYear": 2022,
+    "price": 825000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 31000,
+    "owners": 1,
+    "color": "Red",
+    "location": "Hyderabad, Telangana",
+    "condition": "Excellent",
+    "images": [
+      "https://classicmotors.co.in/admin/images/17365977915.jpeg"
+    ],
+    "description": "Well maintained premium hatchback with a clean interior and regular service history.",
+    "features": [
+      "Air Conditioning",
+      "Power Windows",
+      "ABS",
+      "Dual Airbags",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Hyderabad, Telangana"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v8",
+    "type": "SUV",
+    "brand": "Mahindra",
+    "model": "XUV500",
+    "variant": "W11",
+    "year": 2018,
+    "registrationYear": 2018,
+    "price": 695000,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "kilometers": 82000,
+    "owners": 2,
+    "color": "White",
+    "location": "Warangal, Telangana",
+    "condition": "Good",
+    "images": [
+      "https://www.mahindrafirstchoice.com/_next/image?q=75&url=https%3A%2F%2Fmedia.mahindrafirstchoice.com%2Flive_web_images%2Fusedcarsimg%2Fmfc%2F2195%2F639294%2Fcover_image-20250916121520.jpg&w=1200"
+    ],
+    "description": "Spacious family SUV with practical features and a strong diesel engine.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Parking Sensors"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Warangal, Telangana"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v9",
+    "type": "Sedan",
+    "brand": "Hyundai",
+    "model": "Verna",
+    "variant": "SX",
+    "year": 2021,
+    "registrationYear": 2021,
+    "price": 985000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "kilometers": 39000,
+    "owners": 1,
+    "color": "Grey",
+    "location": "Bengaluru, Karnataka",
+    "condition": "Excellent",
+    "images": [
+      "https://images10.gaadi.com/usedcar_image/4788802/original/dcb465fedf21f8ed0aafdff11be601a3.JPG?imwidth=640"
+    ],
+    "description": "Comfortable automatic sedan with modern safety and infotainment features.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Touchscreen Infotainment"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Bengaluru, Karnataka"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v10",
+    "type": "Hatchback",
+    "brand": "Hyundai",
+    "model": "i20",
+    "variant": "Sportz",
+    "year": 2022,
+    "registrationYear": 2022,
+    "price": 765000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 28000,
+    "owners": 1,
+    "color": "Blue",
+    "location": "Chennai, Tamil Nadu",
+    "condition": "Excellent",
+    "images": [
+      "https://imgd.aeplcdn.com/640X480/blur/image/used/6vjxby2z87xj.jpg?fit=true&qp=80"
+    ],
+    "description": "Single-owner hatchback with low kilometers and a clean service record.",
+    "features": [
+      "Air Conditioning",
+      "Power Windows",
+      "ABS",
+      "Dual Airbags",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Chennai, Tamil Nadu"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v11",
+    "type": "Bike",
+    "brand": "Honda",
+    "model": "CB350",
+    "variant": "DLX Pro",
+    "year": 2023,
+    "registrationYear": 2023,
+    "price": 205000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 12000,
+    "owners": 1,
+    "color": "Black",
+    "location": "Hyderabad, Telangana",
+    "condition": "Excellent",
+    "images": [
+      "https://imgd.aeplcdn.com/640X480/n/bw/used/s761265/761265_1768723143266.jpeg?q=80"
+    ],
+    "description": "Low-mileage modern classic motorcycle in excellent condition.",
+    "features": [
+      "ABS",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Hyderabad, Telangana"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v12",
+    "type": "SUV",
+    "brand": "Maruti Suzuki",
+    "model": "Brezza",
+    "variant": "ZXI",
+    "year": 2022,
+    "registrationYear": 2022,
+    "price": 945000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "kilometers": 24000,
+    "owners": 1,
+    "color": "Grey",
+    "location": "Pune, Maharashtra",
+    "condition": "Excellent",
+    "images": [
+      "https://www.mahindrafirstchoice.com/_next/image?q=75&url=https%3A%2F%2Fmedia.mahindrafirstchoice.com%2Flive_web_images%2Fusedcarsimg%2Fmfc%2F2195%2F639294%2Fcover_image-20250916121520.jpg&w=1200"
+    ],
+    "description": "Efficient compact SUV with automatic transmission and low usage.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Touchscreen Infotainment"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Pune, Maharashtra"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v13",
+    "type": "Car",
+    "brand": "Tata",
+    "model": "Altroz",
+    "variant": "XZ",
+    "year": 2021,
+    "registrationYear": 2021,
+    "price": 675000,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "kilometers": 45000,
+    "owners": 1,
+    "color": "Blue",
+    "location": "Vijayawada, Andhra Pradesh",
+    "condition": "Good",
+    "images": [
+      "https://imgd.aeplcdn.com/640X480/vimages/202603/4458306_16599_2_1774345712099.jpg?fit=true&qp=80"
+    ],
+    "description": "Practical premium hatchback with good mileage and solid build quality.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Power Windows",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Vijayawada, Andhra Pradesh"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v14",
+    "type": "Sedan",
+    "brand": "Maruti Suzuki",
+    "model": "Dzire",
+    "variant": "ZXI+",
+    "year": 2019,
+    "registrationYear": 2019,
+    "price": 585000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 61000,
+    "owners": 2,
+    "color": "Silver",
+    "location": "Warangal, Telangana",
+    "condition": "Good",
+    "images": [
+      "https://editorial.pxcrush.net/carsales/general/editorial/Honda-City-001.jpg?height=682&width=1024"
+    ],
+    "description": "Economical sedan suitable for daily city and highway use.",
+    "features": [
+      "Air Conditioning",
+      "Power Windows",
+      "ABS",
+      "Dual Airbags",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Warangal, Telangana"
+    },
+    "imageNote": "Real sedan photograph; replace with an exact Dzire photo if a local image-host URL is preferred."
+  },
+  {
+    "id": "v15",
+    "type": "Hatchback",
+    "brand": "Tata",
+    "model": "Tiago",
+    "variant": "XZA+",
+    "year": 2020,
+    "registrationYear": 2020,
+    "price": 525000,
+    "fuel": "CNG",
+    "transmission": "Automatic",
+    "kilometers": 36000,
+    "owners": 1,
+    "color": "Orange",
+    "location": "Hyderabad, Telangana",
+    "condition": "Good",
+    "images": [
+      "https://assets.spinny.com/sp-file-system/public/2026-06-12/7bab45bd07264878981375b31a0cb53a/raw/file.JPG"
+    ],
+    "description": "Fuel-efficient hatchback with automatic transmission and city-friendly size.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Hyderabad, Telangana"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v16",
+    "type": "SUV",
+    "brand": "Toyota",
+    "model": "Urban Cruiser",
+    "variant": "High",
+    "year": 2020,
+    "registrationYear": 2020,
+    "price": 875000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 51000,
+    "owners": 2,
+    "color": "Brown",
+    "location": "Bengaluru, Karnataka",
+    "condition": "Good",
+    "images": [
+      "https://images10.gaadi.com/usedcar_image/5056091/original/processed_da823606-159e-4c68-adf7-1887c5325022.jpg?imwidth=640"
+    ],
+    "description": "Reliable compact SUV with practical features and comfortable cabin.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Touchscreen Infotainment"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Bengaluru, Karnataka"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v17",
+    "type": "Bike",
+    "brand": "Bajaj",
+    "model": "Pulsar 220F",
+    "variant": "ABS",
+    "year": 2021,
+    "registrationYear": 2021,
+    "price": 118000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "kilometers": 22000,
+    "owners": 1,
+    "color": "Blue",
+    "location": "Vijayawada, Andhra Pradesh",
+    "condition": "Good",
+    "images": [
+      "https://ik.imagekit.io/drivex/vehicle_images/direct_29714_right_464062a1c4c84543.jpg?tr=q-70%2Cfo-motorcycle%3Aw-628%2Cdpr-2%2Cf-avif"
+    ],
+    "description": "Sporty commuter motorcycle with ABS and regular maintenance.",
+    "features": [
+      "ABS"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Vijayawada, Andhra Pradesh"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  },
+  {
+    "id": "v18",
+    "type": "Car",
+    "brand": "Kia",
+    "model": "Sonet",
+    "variant": "HTK+",
+    "year": 2021,
+    "registrationYear": 2021,
+    "price": 825000,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "kilometers": 41000,
+    "owners": 1,
+    "color": "White",
+    "location": "Chennai, Tamil Nadu",
+    "condition": "Good",
+    "images": [
+      "https://imgd.aeplcdn.com/640X480/vimages/202512/4297408_141214_1_1765976535486.jpg?fit=true&qp=80"
+    ],
+    "description": "Compact SUV-style car with a practical cabin and efficient diesel engine.",
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "Dual Airbags",
+      "Rear Camera",
+      "Bluetooth Connectivity"
+    ],
+    "seller": {
+      "name": "Demo Seller",
+      "location": "Chennai, Tamil Nadu"
+    },
+    "imageNote": "Real vehicle photograph sourced from web image search; model matched to listing where available."
+  }
+]
